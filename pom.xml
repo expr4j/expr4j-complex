@@ -11,7 +11,7 @@
 
     <name>Expr4j Complex</name>
     <url>https://github.com/expr4j/expr4j-complex</url>
-    <description>Complex numbers implementation for expr4j</description>
+    <description>Complex implementation for Expr4j</description>
 
     <developers>
         <developer>
