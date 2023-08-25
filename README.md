@@ -4,7 +4,7 @@
 </p>
 
 # Complex Implementation for Expr4j
-This is a Java library providing [Complex](https://commons.apache.org/proper/commons-numbers/commons-numbers-complex/javadocs/api-1.1/org/apache/commons/numbers/complex/Complex.html) datatype implementation from [Apache Commons Numbers](https://commons.apache.org/proper/commons-numbers/commons-numbers-complex/) for [expr4j](https://github.com/expr4j/expr4j) library.
+This is a Java library providing [Complex](https://commons.apache.org/proper/commons-numbers/commons-numbers-complex/javadocs/api-1.1/org/apache/commons/numbers/complex/Complex.html) datatype implementation from [Apache Commons Numbers](https://commons.apache.org/proper/commons-numbers/commons-numbers-complex/) for [Expr4j](https://github.com/expr4j/expr4j) library.
 
 > **Note**<br/>
 > Version 1.x of Expr4j is a complete rewrite of the library. The new API is incompatible with the 0.0.x versions.
