@@ -4,6 +4,9 @@
 </p>
 
 # Complex Implementation for Expr4j
+
+![Maven](https://github.com/expr4j/expr4j-complex/actions/workflows/maven.yml/badge.svg)
+
 This is a Java library providing [Complex](https://commons.apache.org/proper/commons-numbers/commons-numbers-complex/javadocs/api-1.1/org/apache/commons/numbers/complex/Complex.html) datatype implementation from [Apache Commons Numbers](https://commons.apache.org/proper/commons-numbers/commons-numbers-complex/) for [Expr4j](https://github.com/expr4j/expr4j) library.
 
 ## Dependency Management
